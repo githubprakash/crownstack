@@ -4,4 +4,6 @@
 	3- Run - "php artisan migrate" Command
 	4- Run - "php artisan db:seed" Command
 	5- Post your request with postman
+	
+![Postman Process ](instruction.png)
  
